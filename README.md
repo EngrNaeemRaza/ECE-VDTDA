@@ -6,7 +6,7 @@ Efficient Collision Avoidance System for Driver Assistance in Foggy Weather".
 # Usage
 Run distance_TTC_based_warning_with_graphs.py to reproduce results for distance based TTC collision warnings with graphs.  
 Run speed_TTC_based_warning_with_graphs.py to reproduce results for speed based TTC collision warnings with graphs.  
-Requirements: Python 3.x, Torch, Matplotlib, Pandas
+Requirements: See requirements.txt file
 
 # Citation
 If using this code, cite the paper.
