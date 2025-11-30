@@ -10,3 +10,10 @@ Requirements: Python 3.x, Torch, Matplotlib, Pandas
 
 # Citation
 If using this code, cite the paper.
+
+# Reference
+https://github.com/ultralytics/yolov5  
+https://githubcom/mikel-brostrom/Yolov5 DeepSort Pytorch  
+https://githubcom/dyhBUPT/StrongSORT  
+Tong Z, Chen Y, Xu Z, Yu R. Wise-IoU: bounding box regression loss with dynamic focusing mechanism. arXiv 556
+preprint arXiv:230110051. 2023.  
