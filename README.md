@@ -7,6 +7,7 @@ Efficient Collision Avoidance System for Driver Assistance in Foggy Weather".
 1. Run distance_TTC_based_warning_with_graphs.py to reproduce results for distance based TTC collision warnings with graphs.  
 2. Run speed_TTC_based_warning_with_graphs.py to reproduce results for speed based TTC collision warnings with graphs.  
 3. Requirements: See requirements.txt file
+4. Hyper-parameters: Use YOLO-V5, Deep-SORT, and Strong-SORT default paramaeters for training and validation
 
 # Citation
 If using this code, cite the paper.
