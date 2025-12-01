@@ -15,9 +15,8 @@ If using this code, cite the paper.
 1. https://github.com/ultralytics/yolov5  
 2. https://githubcom/mikel-brostrom/Yolov5_DeepSort_Pytorch  
 3. https://githubcom/dyhBUPT/StrongSORT  
-4. Tong Z, Chen Y, Xu Z, Yu R. Wise-IoU: bounding box regression loss with dynamic focusing mechanism. arXiv 556
-preprint arXiv:230110051. 2023.  
+4. Tong Z, Chen Y, Xu Z, Yu R. Wise-IoU: bounding box regression loss with dynamic focusing mechanism. arXiv 556 preprint arXiv:230110051. 2023 (https://arxiv.org/abs/2301.10051)
 5. Efficient and Cost-Effective Vehicle Detection in Foggy Weather for Edge/Fog-Enabled Traffic Surveillance and Collision Avoidance Systems (https://www.techscience.com/cmc/v81n1/58328)  
-An Efficient and Cost-Effective Vehicle Detection and Tracking System for Collision Avoidance in Foggy Weather (https://ieeexplore.ieee.org/abstract/document/11078259)  
+6. An Efficient and Cost-Effective Vehicle Detection and Tracking System for Collision Avoidance in Foggy Weather (https://ieeexplore.ieee.org/abstract/document/11078259)  
 
 
