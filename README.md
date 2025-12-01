@@ -18,6 +18,7 @@ If using this code, cite the paper.
 3. https://githubcom/dyhBUPT/StrongSORT  
 4. Tong Z, Chen Y, Xu Z, Yu R. Wise-IoU: bounding box regression loss with dynamic focusing mechanism. arXiv 556 preprint arXiv:230110051. 2023 (https://arxiv.org/abs/2301.10051)
 5. Efficient and Cost-Effective Vehicle Detection in Foggy Weather for Edge/Fog-Enabled Traffic Surveillance and Collision Avoidance Systems (https://www.techscience.com/cmc/v81n1/58328)  
-6. An Efficient and Cost-Effective Vehicle Detection and Tracking System for Collision Avoidance in Foggy Weather (https://ieeexplore.ieee.org/abstract/document/11078259)  
+6. An Efficient and Cost-Effective Vehicle Detection and Tracking System for Collision Avoidance in Foggy Weather (https://ieeexplore.ieee.org/abstract/document/11078259)
+7. A Deep Learning Based Real-Time Vehicle Detection and Collision Avoidance System for Low-Visibility Foggy Environment (https://ieeexplore.ieee.org/document/11204143)
 
 
