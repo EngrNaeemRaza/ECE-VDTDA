@@ -4,10 +4,10 @@ This repository contains the implementation of ECE-VDTDA systems vehicle detecti
 Efficient Collision Avoidance System for Driver Assistance in Foggy Weather".
 
 # Usage
-1. Run distance_TTC_based_warning_with_graphs.py to reproduce results for distance based TTC collision warnings with graphs.  
-2. Run speed_TTC_based_warning_with_graphs.py to reproduce results for speed based TTC collision warnings with graphs.  
-3. Requirements: See requirements.txt file
-4. Hyper-parameters and Weights: Use YOLO-V5 (YOLO-V5s), Deep-SORT, and Strong-SORT default parameters
+1. Requirements: See requirements.txt file
+2. Hyper-parameters and Weights: Use YOLO-V5 (YOLO-V5s), Deep-SORT, and Strong-SORT default parameters
+3. Run distance_TTC_based_warning_with_graphs.py to reproduce results for distance based TTC collision warnings with graphs.  
+2. Run speed_TTC_based_warning_with_graphs.py to reproduce results for speed based TTC collision warnings with graphs. 
 
 # Citation
 If using this code, cite the paper.
